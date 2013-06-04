@@ -1,0 +1,27 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.example.mysecondapp">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="16"/>
+
+    <application android:allowBackup="true" android:icon="@drawable/cats_icon" android:label="@string/app_name" android:theme="@style/AppTheme">
+        <activity android:label="@string/app_name" android:launchMode="singleTop" android:name="com.example.mysecondapp.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/projectListName" android:name="com.example.mysecondapp.ProjectList" android:parentActivityName="com.example.mysecondapp.MainActivity">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.example.mysecondapp.MainActivity"/>
+        </activity>
+        <activity android:label="@string/reportListName" android:name="com.example.mysecondapp.ReportList" android:parentActivityName="com.example.mysecondapp.MainActivity">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.example.mysecondapp.MainActivity"/>
+        </activity>
+        <activity android:label="Add a New Task" android:name="com.example.mysecondapp.AddTaskActivity" android:parentActivityName="com.example.mysecondapp.MainActivity">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.example.mysecondapp.MainActivity"/>
+        </activity>
+    </application>
+
+</manifest>

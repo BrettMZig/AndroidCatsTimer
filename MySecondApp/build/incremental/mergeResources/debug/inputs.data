@@ -1,0 +1,25 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1368763583000 24654 696bbbc63d2250ef7d3373f2d602e604acd13d8c /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/drawable-xxhdpi/ic_launcher.png
+1369283092000 835 38808bcde4b5142edd3f3d736dd1fc199f3d98af /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/menu/main.xml
+1368763583000 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/drawable-hdpi/ic_launcher.png
+1368763584000 181 84de2797380184d8b39af6f829afb092fb956173 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/values-sw600dp/dimens.xml
+1368854501000 374 34b30020fe093ef7492ba743a75f48cb178aa863 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/layout/activity_project.xml
+1369274754000 1013 bf3c981514072e7ba3ca0592bf93800bde94e993 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/values/strings.xml
+1368763584000 254 25b6404e44acb50c82590049639d4fb5fefbac8e /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/values-sw720dp-land/dimens.xml
+1369104670000 326 d37a4c26fd6c697576957539337328337b3c5b95 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/values/ids.xml
+1370225573000 2387 cdf8d2b8346448bd592e6da43a9495624dd819c0 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/drawable-mdpi/cats_icon.png
+1370225523000 3969 4ad420e05460ac7364935d9725193de5611f6f80 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/drawable-hdpi/cats_icon.png
+1368763584000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/values/dimens.xml
+1368850187000 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/values/styles.xml
+1368763584000 324 aa1f5f1723de9aee2669dc44a26fbc0ce776d35f /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/values-v11/styles.xml
+1368763583000 3769 eec07752d40e268ed7f4a1730acc77ab1e40aeb0 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/drawable-mdpi/ic_launcher.png
+1370225625000 9853 466b939cf708eee688bd4390471a4fae499986d0 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/drawable-xxhdpi/cats_icon.png
+1370225694000 5658 800c89274d6a40ff95855ddaeb04d792ee033c30 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/drawable-xhdpi/cats_icon.png
+1369100448000 2996 02255759a9928cdfb1d520fcf412fb91d3c63902 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/layout/activity_main.xml
+1368763583000 12329 a8301606e15d4b6dccdd775cc273cfc51a552645 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/drawable-xhdpi/ic_launcher.png
+1368763584000 381 b129b276e01126de5b3b753572ac67cbfc19454c /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/values-v14/styles.xml
+1368851126000 278 685beb8eae686ac495d28abab1f1013b736a2570 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/values/colors.xml
+1369106127000 1496 63c2ac4364f85d5519c32178a7f223cf0d830b07 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/layout/activity_add.xml
+1369101080000 2969 b2e27ce88b3e510222d346fc2421e17dff54f458 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/src/main/res/layout-land/activity_main.xml

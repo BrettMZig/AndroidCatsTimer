@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >CATS Timer</string>
+    <string name="projectListName" >Choose a Project</string>
+    <string name="reportListName" >CATS Report</string>
+
+    <string name="action_settings" >Settings</string>
+    <string name="action_projects" >Edit Projects</string>
+    <string name="action_add" >Add New Project</string>
+    <string name="action_save" >Save</string>
+
+    <string name="hello_world" >Hello world!</string>
+
+    <string name="startBtnHint">Start a new project</string>
+    <string name="startBtnText">Next Project</string>
+
+    <string name="resetBtnHint">Reset all times</string>
+    <string name="resetBtnText">Reset</string>
+
+    <string name="stopBtnHint">Time to fill out your CATS</string>
+    <string name="stopBtnText">Show Report</string>
+
+    <string name="currentText">Being Lazy</string><string name="addName">Give your new task a name</string><string name="addNumber">Now store the CATS number</string>
+
+</resources>

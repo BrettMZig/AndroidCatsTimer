@@ -1,0 +1,22 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1369104921000 1456 311f5b08d5d3306b828f51b1f9c4ac8eacb8fa64 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/build/classes/debug/com/example/mysecondapp/ProjectList.class
+1369104921000 1091 b1b51bf6ffe363cfe2130d93c02d864a9017973d /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/build/classes/debug/com/example/mysecondapp/ReportList.class
+1369274862000 403 5b3fa9a714ebe1009bc256aa9f12e9db286c0f5e /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/build/classes/debug/com/example/mysecondapp/R$menu.class
+1369274862000 494 a93533f9b0caa2cc90a84d73891a0ee30ecf0e2e /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/build/classes/debug/com/example/mysecondapp/R$layout.class
+1370224746000 6193 95eaa6e7d2d04450fef80448b40bbb975e71f799 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/build/classes/debug/com/example/mysecondapp/TaskKeeper.class
+1369274862000 480 65b3545e8d382d18333fd8540d95075455e6d1eb /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/build/classes/debug/com/example/mysecondapp/R$style.class
+1368763584000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/libs/android-support-v4.jar
+1369274862000 780 79b2da9a7c3734d6e452600b16d0e81cde0ed05e /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/build/classes/debug/com/example/mysecondapp/R.class
+1369274862000 985 d6664f042d4e416e9462a1e1ed0d1eeea43dbd50 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/build/classes/debug/com/example/mysecondapp/R$string.class
+1368763637000 355 b00e21334de9d92a567f2f9ca9ab7b5de373895f /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/build/classes/debug/com/example/mysecondapp/BuildConfig.class
+1369019829000 455 23f4106429c040920695f8ac9e5bbfa90202494a /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/build/classes/debug/com/example/mysecondapp/R$drawable.class
+1368851355000 476 db48f98bcb116f00ec2682cb5f78f0e0a5d6cd20 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/build/classes/debug/com/example/mysecondapp/R$dimen.class
+1369279838000 3130 b2cb7b654aec7ecb530b543af9ace88ff48e630d /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/build/classes/debug/com/example/mysecondapp/MainActivity.class
+1369011798000 902 5f43d70d6228cb9c084cc448f29197a375d26542 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/build/classes/debug/com/example/mysecondapp/TaskComparator.class
+1369283021000 2389 1ef9403955d75d715933618c0dc96275de21ad2a /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/build/classes/debug/com/example/mysecondapp/Task.class
+1369106224000 1474 4c2dfb404575173fa896ba95f10e03de6e389dc4 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/build/classes/debug/com/example/mysecondapp/AddTaskActivity.class
+1368763637000 355 ae42708ff5c75e306a31be5a0160d25faccb7e05 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/build/classes/debug/com/example/mysecondapp/R$attr.class
+1368851355000 538 895f032f01e449d66fde481fcdf1b545410d5b34 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/build/classes/debug/com/example/mysecondapp/R$color.class
+1369274862000 913 39ae1f23ce71d79e7f9ab814ea5fc2a05a5008a5 /home/bmz4/AndroidStudioProjects/MySecondApp/MySecondApp/build/classes/debug/com/example/mysecondapp/R$id.class

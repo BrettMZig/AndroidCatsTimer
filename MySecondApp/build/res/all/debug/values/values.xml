@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="myBlue">#afd1f3</color>
+    <color name="myGrey">#c8cdcd</color>
+    <color name="pauseYellow">#ffee00</color>
+    <color name="startGreen">#57ff48</color>
+    <color name="stopRed">#ff4444</color>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <item name="currentText" type="id"/>
+    <item name="editName" type="id"/>
+    <item name="editNumber" type="id"/>
+    <item name="pauseBtn" type="id"/>
+    <item name="projectListView" type="id"/>
+    <item name="resetBtn" type="id"/>
+    <item name="startBtn" type="id"/>
+    <item name="stopBtn" type="id"/>
+
+    <string name="action_add">Add New Project</string>
+    <string name="action_projects">Edit Projects</string>
+    <string name="action_save">Save</string>
+    <string name="action_settings">Settings</string>
+    <string name="addName">Give your new task a name</string>
+    <string name="addNumber">Now store the CATS number</string>
+    <string name="app_name">CATS Timer</string>
+    <string name="currentText">Being Lazy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="projectListName">Choose a Project</string>
+    <string name="reportListName">CATS Report</string>
+    <string name="resetBtnHint">Reset all times</string>
+    <string name="resetBtnText">Reset</string>
+    <string name="startBtnHint">Start a new project</string>
+    <string name="startBtnText">Next Project</string>
+    <string name="stopBtnHint">Time to fill out your CATS</string>
+    <string name="stopBtnText">Show Report</string>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="mainButton">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+</resources>

@@ -1,0 +1,84 @@
+<LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:baselineAligned="false"
+    android:gravity="top"
+    android:weightSum="100">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="30"
+        android:layout_gravity="top">
+
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+            android:text="@string/currentText"
+                android:id="@id/currentText"
+            android:textSize="20dp" />
+
+        <Chronometer
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/chronometer"
+                android:textAlignment="viewEnd"
+                android:textSize="70dp"
+                android:autoText="true"
+            android:layout_gravity="right|top"
+            android:layout_marginRight="10dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="70"
+        android:layout_gravity="bottom"
+        android:gravity="bottom">
+
+        <Button
+                android:text="@string/startBtnText"
+                android:id="@id/startBtn"
+                android:hint="@string/startBtnHint"
+                android:background="@color/myBlue"
+            android:clickable="true"
+            android:onClick="onStartBtnClick"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:layout_margin="10dp"
+            android:singleLine="false"
+            android:enabled="true"/>
+
+        <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/stopBtnText"
+                android:id="@id/stopBtn"
+            android:background="@color/myBlue"
+                android:clickable="true"
+                android:longClickable="false"
+                android:hint="@string/stopBtnHint"
+            android:onClick="onStopBtnClick"
+            android:enabled="true"
+            android:layout_margin="10dp"
+            />
+
+        <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/resetBtnText"
+                android:id="@id/resetBtn"
+            android:background="@color/myGrey"
+                android:enabled="true"
+            android:clickable="true"
+            android:hint="@string/resetBtnHint"
+            android:onClick="onPauseBtnClick"
+            android:layout_margin="10dp"
+            />
+    </LinearLayout>
+
+</LinearLayout>
